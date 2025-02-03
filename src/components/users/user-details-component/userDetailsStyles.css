@@ -1,0 +1,15 @@
+.userDetailsList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.userDetailsItem {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.userResipes {
+
+}

@@ -1,0 +1,36 @@
+.loginContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.loginTitle {
+    font-size: 32px;
+    color: #0B63F6;
+    text-shadow: 1px 1px #003CC5;
+}
+
+.loginForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.loginBtn {
+    width: 150px;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    background: #0B63F6;
+    box-shadow: 0 5px 0 #003CC5;
+}
+.loginBtn:hover, .loginBtn:focus {
+    background: #003CC5;
+    box-shadow: none;
+    position: relative;
+    top: 5px;
+}

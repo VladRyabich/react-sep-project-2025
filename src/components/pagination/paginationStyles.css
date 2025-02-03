@@ -1,0 +1,23 @@
+.paginationList {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.paginationBtn {
+    width: 150px;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    background: #0B63F6;
+    box-shadow: 0 5px 0 #003CC5;
+}
+
+.paginationBtn:hover,
+.paginationBtn:focus {
+    background: #003CC5;
+    box-shadow: none;
+    position: relative;
+    top: 5px;
+}

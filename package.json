@@ -14,10 +14,10 @@
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.1.4",
     "axios": "^1.7.9",
-    "joi": "^17.13.3",
     "react-redux": "^9.2.0",
     "@reduxjs/toolkit": "^2.5.1",
     "react-hook-form": "^7.54.2",
+    "joi": "^17.13.3",
     "@hookform/resolvers": "^3.10.0"
   },
   "devDependencies": {

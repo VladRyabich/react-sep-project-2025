@@ -1,0 +1,6 @@
+.usersList {
+    margin: 24px 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 48px 24px;
+}
